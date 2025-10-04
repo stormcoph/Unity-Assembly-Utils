@@ -1,4 +1,4 @@
-# Hacking unity projects that doesnt use IL2CPP
+# Base for hacking unity games (that doesn't use IL2CPP)
 
 ## Creating The Project
 
